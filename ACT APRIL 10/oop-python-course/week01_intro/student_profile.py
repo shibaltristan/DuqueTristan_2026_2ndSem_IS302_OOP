@@ -1,0 +1,10 @@
+nametld = input("Enter your name: ")
+agetld = input("Enter your age: ")
+coursetld = input("Enter your course: ")
+universitytld = input("Enter your university: ")
+
+print("\n----- STUDENT PROFILE -----")
+print("Name:", nametld)
+print("Age:", agetld)
+print("Course:", coursetld)
+print("University:", universitytld)
