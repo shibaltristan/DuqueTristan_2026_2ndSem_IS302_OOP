@@ -1,4 +1,4 @@
-correct_username = "shin"
+correct_username = "tan"
 correct_password = "1234"
 attempts = 0
 
