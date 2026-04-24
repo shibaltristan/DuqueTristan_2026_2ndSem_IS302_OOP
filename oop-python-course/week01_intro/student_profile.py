@@ -1,0 +1,10 @@
+name_TLD = input("Enter your name: ")
+age_TLD = input("Enter your age: ")
+course_TLD = input("Enter your course: ")
+university_TLD = input("Enter your university: ")
+
+print("\n----- STUDENT PROFILE -----")
+print("Name:", name_TLD)
+print("Age:", age_TLD)
+print("Course:", course_TLD)
+print("University:", university_TLD)
