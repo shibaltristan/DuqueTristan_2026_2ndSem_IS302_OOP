@@ -1,0 +1,2 @@
+This is a sample data file for file_reader_safe.py.
+It demonstrates safe file reading with exception handling.
